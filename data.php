@@ -115,12 +115,12 @@ button {
 <h1>ESP32 Dashboard</h1>
 
 <!-- Bouton pour allumer la LED -->
-<button onclick="fetch('http://192.168.100.136/led')">
+<button onclick="fetch('http://IPESP32/led')">
     LED
 </button>
 
 <!-- Bouton pour activer le buzzer -->
-<button onclick="fetch('http://192.168.100.136/son')">
+<button onclick="fetch('http://IPESP32/son')">
     BUZZER
 </button>
 
