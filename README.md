@@ -1,8 +1,5 @@
-📡 TP ESP32 – Communication avec un serveur Web
+📡 ESP32 – Communication avec un serveur Web
 🎯 **Objectif**
-
-Ce TP permet de comprendre comment un *ESP32* peut communiquer avec un serveur web.
-On apprend à envoyer des données, mais aussi à recevoir des commandes depuis une page web pour contrôler des composants comme une LED ou un buzzer.
 
 🧩 Partie 1 – Contrôler l’ESP32 depuis une page Web
 
